@@ -1,0 +1,1 @@
+Descrição: padrão de projeto que serve para simplificar a utlização de um sistema complexo. É como a fachada de um prédio, vemos apenas ela, deixando de focar nas partes mais complexas (elétrica, estrutural, mecânica).
